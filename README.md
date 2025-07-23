@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**gowtham-888/gowtham-888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Gowtham!
 
-Here are some ideas to get you started:
+🎓 I'm a B.Tech student in Computer Science & Engineering (Data Analytics)  
+📌 Currently learning Python, SQL, Excel, Power BI, and real-world data projects  
+🏋️ I love staying fit, solving problems, and improving every day  
+🌱 Actively building projects to become a skilled Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Skills ("up coming")
+- 📊 Excel (Pivot Tables, Charts, Dashboards)
+- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 🛢️ SQL (Joins, Group By, Subqueries)
+- 📈 Power BI (Reports, Dashboards, Insights)
+- 💡 Problem Solving and Data Visualization
+
+## 📌 Goals
+- 🔹 Build 10+ real-world data projects
+- 🔹 Complete 1 internship before final year
+- 🔹 Share learning journey on GitHub & LinkedIn
+
+## 📫 Connect with me
+- Email: gowtham98455@gmail.com  
+- LinkedIn: *(https://www.linkedin.com/in/gowtham-k-4606b9370)*  
