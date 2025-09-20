@@ -15,7 +15,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gowtham888_)
-[![LinkedIn](https://www.linkedin.com/in/gowtham-k-4606b9370?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdHco5OwCSpuAOFqwfHN%2BSQ%3D%3D)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham888)
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gowtham98455@gmail.com) 
 
 # 💻 Tech Stack:
