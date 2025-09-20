@@ -3,6 +3,7 @@ Hi there 👋
 👋 Hello, I'm Gowtham!
 
 💫 About Me:
+
 🎓 I’m pursuing B.Tech in Data Science at Nagarjuna College of Engineering<br><br>🛠️ I’m currently working on Python, SQL, and C Programming<br><br>🌱 I’m learning AI, Data science, and Machine Learning<br><br>🤝 I’m looking to collaborate on Data Science projects and open-source contributions<br><br>💬 Ask me about Python, SQL, and basics of Data Science<br><br>⚡ Fun fact: (traditional wrestling) 
 
 
