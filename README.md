@@ -1,6 +1,6 @@
-Hi there 👋
+## Hi there i'm gowtham k  👋
 
-                                                      ##  👋 Hello, I'm Gowtham!  ## 
+
 
 ## 💫 About Me:
 
